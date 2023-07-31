@@ -1,0 +1,31 @@
+[0.026s] Invoking command in '/home/kiro04/urdf_study/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kiro04/urdf_study/build/my_robot_description -- -j8 -l8
+[0.066s] Invoked command in '/home/kiro04/urdf_study/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kiro04/urdf_study/build/my_robot_description -- -j8 -l8
+[0.098s] Invoking command in '/home/kiro04/urdf_study/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kiro04/urdf_study/build/my_robot_description
+[0.108s] -- Install configuration: ""
+[0.108s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/launch
+[0.108s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/launch/launch_sim.launch.py
+[0.108s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/launch/upload.launch.py
+[0.108s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/launch/display.launch.py
+[0.108s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/rviz
+[0.108s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/rviz/urdf_config.rviz
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/urdf
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/urdf/gazebo_control.xacro
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/urdf/robot_core.xacro
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/urdf/inertial_macros.xacro
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/urdf/robot.urdf.xacro
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/environment/path.sh
+[0.109s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[0.110s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/local_setup.bash
+[0.110s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/local_setup.sh
+[0.110s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[0.110s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[0.110s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/package.dsv
+[0.110s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[0.110s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[0.110s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[0.110s] -- Up-to-date: /home/kiro04/urdf_study/install/my_robot_description/share/my_robot_description/package.xml
+[0.115s] Invoked command in '/home/kiro04/urdf_study/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kiro04/urdf_study/build/my_robot_description

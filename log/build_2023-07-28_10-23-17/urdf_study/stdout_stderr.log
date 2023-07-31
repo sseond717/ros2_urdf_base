@@ -1,0 +1,13 @@
+-- Install configuration: ""
+-- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/launch
+-- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/launch/simple_display.launch.py
+-- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/urdf
+-- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/urdf/myfirst.urdf
+-- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/rviz
+-- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/rviz/urdf.rviz
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/kiro04/urdf_study/src/urdf_study/DIRECTORY": No such file or
+  directory.
+
+[0m

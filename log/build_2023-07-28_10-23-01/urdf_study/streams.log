@@ -1,0 +1,26 @@
+[0.015s] Invoking command in '/home/kiro04/urdf_study/build/urdf_study': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kiro04/urdf_study/build/urdf_study -- -j8 -l8
+[0.035s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.185s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.257s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.257s] -- Added test 'lint_cmake' to check CMake code style
+[0.257s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.258s] -- Added test 'xmllint' to check XML markup files
+[0.259s] -- Configuring done
+[0.263s] -- Generating done
+[0.264s] -- Build files have been written to: /home/kiro04/urdf_study/build/urdf_study
+[0.286s] Invoked command in '/home/kiro04/urdf_study/build/urdf_study' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kiro04/urdf_study/build/urdf_study -- -j8 -l8
+[0.316s] Invoking command in '/home/kiro04/urdf_study/build/urdf_study': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kiro04/urdf_study/build/urdf_study
+[0.323s] -- Install configuration: ""
+[0.323s] -- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/launch
+[0.324s] -- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/launch/simple_display.launch.py
+[0.324s] -- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/urdf
+[0.324s] -- Up-to-date: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/urdf/myfirst.urdf
+[0.324s] -- Installing: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/rviz
+[0.324s] -- Installing: /home/kiro04/urdf_study/install/urdf_study/share/urdf_study/rviz/urdf.rviz
+[0.324s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.325s]   file INSTALL cannot find
+[0.325s]   "/home/kiro04/urdf_study/src/urdf_study/DIRECTORY": No such file or
+[0.325s]   directory.
+[0.326s] 
+[0.326s] [0m
+[0.327s] Invoked command in '/home/kiro04/urdf_study/build/urdf_study' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kiro04/urdf_study/build/urdf_study

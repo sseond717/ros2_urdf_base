@@ -1,0 +1,4 @@
+Invoking command in '/home/kiro04/urdf_study/build/urdf_study': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kiro04/urdf_study/build/urdf_study -- -j8 -l8
+Invoked command in '/home/kiro04/urdf_study/build/urdf_study' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kiro04/urdf_study/build/urdf_study -- -j8 -l8
+Invoking command in '/home/kiro04/urdf_study/build/urdf_study': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kiro04/urdf_study/build/urdf_study
+Invoked command in '/home/kiro04/urdf_study/build/urdf_study' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kiro04/urdf_study/build/urdf_study

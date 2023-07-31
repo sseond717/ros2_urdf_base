@@ -1,0 +1,39 @@
+[0.757s] Invoking command in '/home/kiro04/urdf_study/src/video_test': PYTHONPATH=/home/kiro04/urdf_study/build/video_test/prefix_override:/home/kiro04/urdf_study/install/video_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/video_test build --build-base /home/kiro04/urdf_study/build/video_test/build install --record /home/kiro04/urdf_study/build/video_test/install.log --single-version-externally-managed
+[1.011s] running egg_info
+[1.012s] creating ../../build/video_test/video_test.egg-info
+[1.012s] writing ../../build/video_test/video_test.egg-info/PKG-INFO
+[1.013s] writing dependency_links to ../../build/video_test/video_test.egg-info/dependency_links.txt
+[1.013s] writing entry points to ../../build/video_test/video_test.egg-info/entry_points.txt
+[1.013s] writing requirements to ../../build/video_test/video_test.egg-info/requires.txt
+[1.014s] writing top-level names to ../../build/video_test/video_test.egg-info/top_level.txt
+[1.014s] writing manifest file '../../build/video_test/video_test.egg-info/SOURCES.txt'
+[1.015s] reading manifest file '../../build/video_test/video_test.egg-info/SOURCES.txt'
+[1.016s] writing manifest file '../../build/video_test/video_test.egg-info/SOURCES.txt'
+[1.016s] running build
+[1.017s] running build_py
+[1.017s] creating /home/kiro04/urdf_study/build/video_test/build
+[1.017s] creating /home/kiro04/urdf_study/build/video_test/build/lib
+[1.017s] creating /home/kiro04/urdf_study/build/video_test/build/lib/video_test
+[1.017s] copying video_test/__init__.py -> /home/kiro04/urdf_study/build/video_test/build/lib/video_test
+[1.017s] copying video_test/cam_test.py -> /home/kiro04/urdf_study/build/video_test/build/lib/video_test
+[1.017s] running install
+[1.022s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.022s]   warnings.warn(
+[1.023s] running install_lib
+[1.024s] creating /home/kiro04/urdf_study/install/video_test/lib/python3.10/site-packages/video_test
+[1.024s] copying /home/kiro04/urdf_study/build/video_test/build/lib/video_test/__init__.py -> /home/kiro04/urdf_study/install/video_test/lib/python3.10/site-packages/video_test
+[1.024s] copying /home/kiro04/urdf_study/build/video_test/build/lib/video_test/cam_test.py -> /home/kiro04/urdf_study/install/video_test/lib/python3.10/site-packages/video_test
+[1.025s] byte-compiling /home/kiro04/urdf_study/install/video_test/lib/python3.10/site-packages/video_test/__init__.py to __init__.cpython-310.pyc
+[1.025s] byte-compiling /home/kiro04/urdf_study/install/video_test/lib/python3.10/site-packages/video_test/cam_test.py to cam_test.cpython-310.pyc
+[1.026s] running install_data
+[1.027s] creating /home/kiro04/urdf_study/install/video_test/share/ament_index
+[1.027s] creating /home/kiro04/urdf_study/install/video_test/share/ament_index/resource_index
+[1.027s] creating /home/kiro04/urdf_study/install/video_test/share/ament_index/resource_index/packages
+[1.027s] copying resource/video_test -> /home/kiro04/urdf_study/install/video_test/share/ament_index/resource_index/packages
+[1.028s] copying package.xml -> /home/kiro04/urdf_study/install/video_test/share/video_test
+[1.028s] running install_egg_info
+[1.029s] Copying ../../build/video_test/video_test.egg-info to /home/kiro04/urdf_study/install/video_test/lib/python3.10/site-packages/video_test-0.0.0-py3.10.egg-info
+[1.030s] running install_scripts
+[1.048s] Installing cam_test script to /home/kiro04/urdf_study/install/video_test/lib/video_test
+[1.048s] writing list of installed files to '/home/kiro04/urdf_study/build/video_test/install.log'
+[1.072s] Invoked command in '/home/kiro04/urdf_study/src/video_test' returned '0': PYTHONPATH=/home/kiro04/urdf_study/build/video_test/prefix_override:/home/kiro04/urdf_study/install/video_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/video_test build --build-base /home/kiro04/urdf_study/build/video_test/build install --record /home/kiro04/urdf_study/build/video_test/install.log --single-version-externally-managed
